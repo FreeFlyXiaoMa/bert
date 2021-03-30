@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:22:45.179Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7s8IQmn6fWSW4mQee8hg" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:26:41.990Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="b6xY4fjt9G3lJ-URYez1" version="14.5.3" type="github">
   <diagram id="ifdEG_FDqkxa7jAidQLI" name="Page-1">
     <mxGraphModel dx="925" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,8 +129,14 @@
         <mxCell id="d923-tKF7e0RNbGYgOQw-45" value="如果模型实例启动了" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="374" y="750" width="126" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="d923-tKF7e0RNbGYgOQw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d923-tKF7e0RNbGYgOQw-46" target="d923-tKF7e0RNbGYgOQw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d923-tKF7e0RNbGYgOQw-46" value="删除硬件实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="850" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d923-tKF7e0RNbGYgOQw-48" value="方案实施成功删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="920" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
